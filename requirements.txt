@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+torch
+torchvision
+pandas
+numpy
+tqdm
+scikit-learn
+pillow
+opencv-python-headless
+matplotlib
