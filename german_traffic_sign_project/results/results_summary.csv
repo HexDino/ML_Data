@@ -1,0 +1,4 @@
+Model,Accuracy (%),Precision (%),Recall (%),F1-Score (%),Train Time (s),Inference (ms/sample)
+SVM,89.19,89.79,89.19,89.02,14.04,1.5431
+KNN,83.38,84.27,83.38,83.40,0.00,1.3014
+Random Forest,82.25,83.88,82.25,81.75,4.03,0.0315

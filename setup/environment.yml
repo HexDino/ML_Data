@@ -1,0 +1,38 @@
+name: traffic_sign_nn
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+
+dependencies:
+  # Python
+  - python=3.10
+  
+  # PyTorch with CUDA (cho RTX 3070)
+  - pytorch
+  - torchvision
+  - pytorch-cuda=11.8
+  
+  # Scikit-learn và ML
+  - scikit-learn
+  - scikit-image
+  
+  # Data processing
+  - numpy
+  - pandas
+  
+  # Visualization
+  - matplotlib
+  - seaborn
+  
+  # Image processing
+  - opencv
+  
+  # Jupyter (optional)
+  - jupyter
+  - ipykernel
+  
+  # Utilities
+  - tqdm
+  - pillow

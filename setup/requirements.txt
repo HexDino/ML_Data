@@ -1,0 +1,24 @@
+# Traffic Sign Classification - Traditional ML
+# GTSRB Dataset - German Traffic Sign Recognition Benchmark
+# ========================================================
+
+# Core scientific computing
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Image processing
+opencv-python>=4.5.0
+scikit-image>=0.18.0
+Pillow>=8.0.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Utilities
+tqdm>=4.60.0  # Optional: for progress bars
+joblib>=1.0.0  # For model saving/loading
+
