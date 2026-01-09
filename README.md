@@ -100,4 +100,3 @@ Khi sử dụng `torchvision.datasets.ImageFolder`, thứ tự class được đ
 
 * **Test Accuracy (Real-world):** >95% (Sau khi áp dụng CLAHE và fix mapping).
 
-Author: [Phùng Tiến Thành](https://github.com/phungtienthanh)
