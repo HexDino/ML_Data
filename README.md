@@ -10,11 +10,8 @@ Dự án này xây dựng một hệ thống nhận diện biển báo giao thô
 
 ## 💾 Download Model Checkpoint
 
-Do file trọng số mô hình (`.pth`) khá nặng, bạn có thể tải checkpoint tốt nhất đã được huấn luyện (Best Accuracy) tại đường dẫn dưới đây:
+Sử dụng checkpoint đã được Upload lên HuggingFace với name model là "khacdiep2208/my_custom_resnet18"
 
-👉 **[GOOGLE DRIVE](https://drive.google.com/file/d/139qb7jysU4nEmBBTal4fixLY44qPoFI3/view?usp=sharing)**
-
-*Sau khi tải về, hãy đặt file vào thư mục `checkpoints/resnet18_custom_best.pth` để chạy inference.*
 
 ---
 
